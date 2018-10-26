@@ -7,7 +7,7 @@ package com.springboot.springboot.domain;
  */
 public class LearnResouce {
     /**
-     * 作者
+     * 作者 哈哈哈哈
      */
     private String author;
     /**
